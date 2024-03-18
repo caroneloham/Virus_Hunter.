@@ -1,0 +1,1 @@
+C:\Users\eloha\Desktop>SignTool sign /f certificat_eloham.pfx /p 1802Eloham /fd SHA256 /t http://timestamp.digicert.com /v certificat.exe

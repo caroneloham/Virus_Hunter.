@@ -1,0 +1,36 @@
+--- Menace identifiée ---
+Fichier : C:\Users\eloha\Desktop\jeu_essaie\Test1\crisis.exe
+Menace identifiée : Malicious
+
+--- Menace identifiée ---
+Fichier : C:\Users\eloha\Desktop\jeu_essaie\Test1\revershell.php
+Menace identifiée : Backdoor.Generic-PHP.Save.05577ef5
+
+--- Menace identifiée ---
+Fichier : C:\Users\eloha\Desktop\jeu_essaie\Test2\client.exe
+Menace identifiée : BehavesLike.Win32.Dropper.tc
+
+--- Menace identifiée ---
+Fichier : C:\Users\eloha\Desktop\jeu_essaie\Test2\server.exe
+Menace identifiée : Malicious (score: 100)
+
+--- Menace identifiée ---
+Date et heure : 2024-02-12 17:15:31
+Fichier : C:\Users\eloha\Desktop\jeu_essaie\Test1\crisis.exe
+Menace identifiée : Malicious
+
+--- Menace identifiée ---
+Date et heure : 2024-02-12 17:15:31
+Fichier : C:\Users\eloha\Desktop\jeu_essaie\Test1\revershell.php
+Menace identifiée : Trojan.Script.Webshell.m!c
+
+--- Menace identifiée ---
+Date et heure : 2024-02-12 17:15:31
+Fichier : C:\Users\eloha\Desktop\jeu_essaie\Test2\client.exe
+Menace identifiée : Trojan.Win32.Generic.4!c
+
+--- Menace identifiée ---
+Date et heure : 2024-02-12 17:15:31
+Fichier : C:\Users\eloha\Desktop\jeu_essaie\Test2\server.exe
+Menace identifiée : Malicious (score: 100)
+
